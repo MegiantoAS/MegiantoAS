@@ -3,7 +3,7 @@
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
 
-- 🔭 I’m currently working on <a href="https://grow.google/intl/id_id/bangkit/">Bangkit Batch2</a>
+- 🔭 I’m Android Developer MytelkomselApp 
 - 🌱 I’m currently learning about Android Developer
 - 💬 Feel free to ask me about web development or JavaScript
 - 📫 How to reach me: megianto63@gmail.com
